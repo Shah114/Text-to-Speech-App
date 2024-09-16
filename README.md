@@ -3,3 +3,9 @@ This project is a simple web application that converts text into speech using th
 <br/>
 
 ## Features
+* Convert any text input into speech.
+* Download the generated speech in MP3 format.
+* Simple and user-friendly interface built with Streamlit. <br/>
+<br/>
+
+## Technologies Used
