@@ -21,4 +21,15 @@ This project is a simple web application that converts text into speech using th
    git clone https://github.com/Shah114/Text-to-Speech-App.git
    cd text-to-speech-app
    ```
-2. Install Dependencies
+2. Install Dependencies <br/>
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Application <br/>
+Once all dependencies are installed, run the Streamlit app:
+
+   ```bash
+   streamlit run app.py
+   ```
+   
