@@ -37,5 +37,8 @@ Once all dependencies are installed, run the Streamlit app:
 ## How to Use
 1. Enter the text you want to convert to speech in the input field.
 2. Click the "Generate Speech" button.
-3. Download the generated speech file in MP3 format.
-   
+3. Download the generated speech file in MP3 format. <br/>
+<br/>
+
+## Screenshots
+
