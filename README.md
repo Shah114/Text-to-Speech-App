@@ -41,4 +41,7 @@ Once all dependencies are installed, run the Streamlit app:
 <br/>
 
 ## Screenshots
+Interface images <br/>
+1. ![image alt](https://github.com/Shah114/Text-to-Speech-App/blob/bba4d59e8d3cbef2c4eb8cf7335b872f10ba505e/Interface.png)
+2. ![image alt]()
 
