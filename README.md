@@ -11,4 +11,14 @@ This project is a simple web application that converts text into speech using th
 ## Technologies Used
 * Python: Programming language used for developing the app.
 * GTTS (Google Text-to-Speech): Python library used to convert text into speech.
-* Streamlit: Web framework used to create the app interface.
+* Streamlit: Web framework used to create the app interface. <br/>
+<br/>
+
+## Setup Instructions
+1. Clone the Repository
+
+   ```bash
+   git clone https://github.com/Shah114/Text-to-Speech-App.git
+   cd text-to-speech-app
+   ```
+2. Install Dependencies
