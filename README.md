@@ -46,3 +46,7 @@ Interface images <br/>
 <br/>
 ![image alt](https://github.com/Shah114/Text-to-Speech-App/blob/557082472a12b974457b10c5a8f3ebc99b7e53f5/Full%20Interface.png)
 
+<br/>
+
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
